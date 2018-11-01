@@ -35,8 +35,15 @@ input:focus {
   float: left;
   width: 250px;
   margin: auto;
-}
 
+}
+.pokemon-frame {
+  width: 239px;
+  margin: auto;
+  color: #2d72fc;
+  background: #fecd2f;
+  text-align: center;
+}
 .center-text {
   text-align: center;
 }
